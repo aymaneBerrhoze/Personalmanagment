@@ -4,7 +4,7 @@ Personalmanagment
 # Inhaltsverzeichnis
 1. [Hinführung](#hinführung)
 2. [Allgemeine Hintergrund](#general-info)
-3. [Technologien und Frameworks](#general-info)
+3. [Technologien und Frameworks](#technologies)
 
 <a name="hinführung"></a>
 ## Hinführung
